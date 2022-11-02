@@ -160,7 +160,7 @@ body {
 
 /* Latihan 5 */
 .container-lima {
-    width: 500px;
+    max-width: 500px;
     height: 500px;
     margin: 50px auto;
     border: 5px solid black;
@@ -168,7 +168,7 @@ body {
 }
 
 .kotak {
-    width: 100px;
+    max-width: 100px;
     height: 100px;
     background-color: brown;
     color: white;
